@@ -17,10 +17,10 @@ Hi, I'm Leonardo Camargo, a Full Stack Developer from Brazil. Always looking to 
 
 ### Languages and Tools:
 <p>
-<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/LeonardoCamargo31/LeonardoCamargo31/master/js.png" />
-<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/LeonardoCamargo31/LeonardoCamargo31/master/ts.png" />
-<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/LeonardoCamargo31/LeonardoCamargo31/master/node.jpg" />
-<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/LeonardoCamargo31/LeonardoCamargo31/master/react.png" />
+<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/LeonardoCamargo31/LeonardoCamargo31/master/js.png" style="vertical-align:top; margin:4px"/>
+<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/LeonardoCamargo31/LeonardoCamargo31/master/ts.png" style="vertical-align:top; margin:4px"/>
+<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/LeonardoCamargo31/LeonardoCamargo31/master/node.jpg" style="vertical-align:top; margin:4px"/>
+<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/LeonardoCamargo31/LeonardoCamargo31/master/react.png" style="vertical-align:top; margin:4px"/>
 
   
 ### Talking about Personal Stuffs:
