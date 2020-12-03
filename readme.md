@@ -8,6 +8,10 @@
   <img align="left" alt="Leonardo Camargo | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<a href="https://dev.to/leonardocamargo31">
+  <img align="left" alt="Leonardo Camargo's DEV Profile" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22px">
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=LeonardoCamargo31.LeonardoCamargo31)
 [![Github](https://img.shields.io/github/followers/LeonardoCamargo31?label=Follow&style=social)](https://github.com/LeonardoCamargo31)
 
